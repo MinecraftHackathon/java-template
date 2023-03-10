@@ -4,6 +4,7 @@
 
 The official documentation is available at https://mcforge.readthedocs.io/en/1.19.2/gettingstarted/ <br>
 French tutorials: https://www.minecraftforgefrance.fr/topic/12/sommaire-des-tutoriels
+KubeJS Mod (to write JS code): https://kubejs.com/, https://mods.latvian.dev/books/kubejs
 
 ## Running
 
