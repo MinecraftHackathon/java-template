@@ -1,0 +1,7 @@
+name: Hackathon
+version: '${version}'
+main: com.github.minecraft.hackathon.Hackathon
+api-version: 1.19
+authors: [ Kevin, Anthony, William ]
+description: Plugin developped during the Minecraft Hackathon at Epitech Reunion
+website: https://github.com/MinecraftHackathon
