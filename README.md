@@ -2,6 +2,7 @@
 
 ## Documentation
 Wiki: https://www.spigotmc.org/wiki/spigot-plugin-development/
+Scriptcraft Plugin (to write JS code): https://github.com/walterhiggins/ScriptCraft
 
 ## Building
 
