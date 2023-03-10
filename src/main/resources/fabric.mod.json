@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "hackathon",
+  "version": "${version}",
+  "name": "Hackathon",
+  "description": "Mod developped during the Minecraft Hackathon at Epitech Reunion",
+  "authors": [
+    "Kevin",
+    "Anthony",
+    "William"
+  ],
+  "contact": {
+    "website": "https://github.com/MinecraftHackathon",
+    "repo": "https://github.com/MinecraftHackathon"
+  },
+  "license": "MIT",
+  "icon": "assets/com.github.minecraft/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.github.minecraft.hackathon.client.MinecraftClient"
+    ],
+    "main": [
+      "com.github.minecraft.hackathon.Minecraft"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.17",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}
