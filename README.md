@@ -29,5 +29,4 @@ Mod (Forge):
 
 > **Warning**
 > Check what type of model to use before starting ! <br>
-> Plugins use Minecraft JSON or bbmodel (if you use ModelEngine plugin) <br>
 > Mod can use Minecraft JSON or OBJ model
